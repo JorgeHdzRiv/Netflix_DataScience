@@ -35,19 +35,36 @@ Este proyecto realiza un análisis exhaustivo del conjunto de datos de Netflix d
     pip install -r requirements.txt
     ```
 3. Ejecuta los notebooks en orden:
+
     [Carga de Datos](./notebooks/Analisis_Exploratorio.ipynb)
 
     [Analisis Exploratorio](./notebooks/Analisis_Exploratorio.ipynb)
 
     [Limpieza de Datos](./notebooks/Limpieza_Datos.ipynb)
 
-    [Ingenieria de Caracteristicas](./notebooks/Ingeniera_Caracteristicas.ipynb)
+    [Ingenieria de Caracteristicas](./notebooks/Ingenieria_Caracteristicas.ipynb)
 
     [Visualizacion de Datos](./notebooks/Visualizaciones.ipynb)
 
     [Modelado](./notebooks/Modelado.ipynb)
 
     [Evaluacion del Modelo](./notebooks/Evaluacion.ipynb)
+
+4. De igual manera (opcional) puedes ejecutar directamente los scripts en orden:
+
+    [Carga de Datos](./scripts/load_data.py)
+
+    [Analisis Exploratorio]()
+
+    [Limpieza de Datos]()
+
+    [Ingenieria de Caracteristicas]()
+
+    [Visualizacion de Datos]()
+
+    [Modelado]()
+
+    [Evaluacion del Modelo]()
 
 ## Conjunto de Datos
 
