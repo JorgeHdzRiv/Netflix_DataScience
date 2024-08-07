@@ -26,7 +26,7 @@ Este proyecto realiza un análisis exhaustivo del conjunto de datos de Netflix d
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tuusuario/netflix-data-analysis.git
+   git clone https://github.com/JorgeHdzRiv/Netflix_DataScience.git
    cd netflix-data-analysis
    ```
 
